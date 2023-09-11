@@ -522,3 +522,4 @@ check pull in version 520
 check pull in version 521
 check pull in version 522
 check pull in version 523
+check pull in version 524
